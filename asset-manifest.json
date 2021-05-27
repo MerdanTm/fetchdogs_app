@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fetchdogs_app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/fetchdogs_app/static/js/main.f8d9a66b.chunk.js",
+    "main.js.map": "/fetchdogs_app/static/js/main.f8d9a66b.chunk.js.map",
+    "runtime-main.js": "/fetchdogs_app/static/js/runtime-main.2853a281.js",
+    "runtime-main.js.map": "/fetchdogs_app/static/js/runtime-main.2853a281.js.map",
+    "static/js/2.2d3dfc3d.chunk.js": "/fetchdogs_app/static/js/2.2d3dfc3d.chunk.js",
+    "static/js/2.2d3dfc3d.chunk.js.map": "/fetchdogs_app/static/js/2.2d3dfc3d.chunk.js.map",
+    "static/js/3.9658642d.chunk.js": "/fetchdogs_app/static/js/3.9658642d.chunk.js",
+    "static/js/3.9658642d.chunk.js.map": "/fetchdogs_app/static/js/3.9658642d.chunk.js.map",
+    "index.html": "/fetchdogs_app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/fetchdogs_app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2d3dfc3d.chunk.js.LICENSE.txt": "/fetchdogs_app/static/js/2.2d3dfc3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2853a281.js",
+    "static/js/2.2d3dfc3d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f8d9a66b.chunk.js"
+  ]
+}
